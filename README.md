@@ -11,7 +11,6 @@
 
 - 📄 Know about my experiences [https://dsnum1.github.io/personal_website/professional](https://dsnum1.github.io/personal_website/professional)
 
-- ⚡ Fun fact **I am a gravedigger without license.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
