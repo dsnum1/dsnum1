@@ -1,11 +1,9 @@
 <h1 align="center">Divyansh Sharma</h1>
-<h3 align="center">4th Final Year Computer Engineering Student from NTU</h3>
+<h3 align="center">Digitalization Engineer @ HP Singapore</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dsnum1&label=Profile%20views&color=0e75b6&style=flat" alt="dsnum1" /> </p>
 
-- 🌱 I’m currently learning **Go, RAG, React Native, GenAI**
-
-- 💬 Ask me about **Reinforcement Learning, TinyML, Embedded Systems**
+- 🌱 I’m currently learning **Flutter, RAGs, Reinforcement Learning**
 
 - 📫 How to reach me **dsnum1@gmail.com**
 
